@@ -1,0 +1,3 @@
+#+title: Leaf2
+
+This page was created in org-mode in order to see if Netlify will actually be able to deploy it.
